@@ -26,6 +26,6 @@
   ![IMG_0190](https://github.com/chandan-vijayadeva/StackQuestionaries/assets/51235527/f6d93aff-cb4c-47e0-9774-45f9c2cc0596) 
   ![IMG_FD91C89BE3C6-1](https://github.com/chandan-vijayadeva/StackQuestionaries/assets/51235527/83c5e973-4650-4d32-a2a2-506441345707)
   
-<img width="420" alt="Screenshot 2023-09-09 at 8 16 42 PM" src="https://github.com/chandan-vijayadeva/StackQuestionaries/assets/51235527/1a0782c7-a97f-4fff-9118-948583fed772">
 
+<img width="420" alt="266788616-1a0782c7-a97f-4fff-9118-948583fed772" src="https://github.com/chandan-vijayadeva/StackQuestionaries/assets/51235527/68ba7304-60b2-4531-9f22-7de299bf32bf">
 <img width="421" alt="Screenshot 2023-09-09 at 8 16 56 PM" src="https://github.com/chandan-vijayadeva/StackQuestionaries/assets/51235527/c62a5dbf-905c-45f2-98d0-a6debeabb067">
