@@ -1,0 +1,13 @@
+export const TEXT_STYLE = {
+  BUTTON_CONTAINER_HEIGHT: 50,
+  FONT_SIZE_16: 16,
+  FONT_SIZE_20: 20,
+};
+
+export const COLORS = {
+  ITEM_BACKGROUND_COLOUR: '#F48024',
+  BUTTON_BACKGROUND_COLOUR: 'gray',
+  BOTTOM_BACKGROUND_COLOUR: 'white',
+  TEXT_COLOUR: 'white',
+  BORDER_COLOUR: 'black',
+};
